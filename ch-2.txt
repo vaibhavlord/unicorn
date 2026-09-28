@@ -1,3 +1,11 @@
 software vs hardware
 
 we learned aboyt software and hardware od system
+
+examples of hardware:
+cpu
+gpu
+cabinet
+keyboard
+motherboard
+

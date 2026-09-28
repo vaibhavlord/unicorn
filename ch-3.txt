@@ -1,0 +1,13 @@
+CLI
+
+commands:
+pwd
+cd
+mkdir
+rm
+touch
+cat
+echo
+chmod
+ls
+
