@@ -1,2 +1,9 @@
 basic introduction to computer
 and their impact in our lives
+
+types of computer:
+pc
+embedded
+super computer
+quantum computer
+
