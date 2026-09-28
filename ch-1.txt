@@ -7,4 +7,6 @@ embedded
 super computer
 quantum computer
 
+
+.
 jucier is not a computer
